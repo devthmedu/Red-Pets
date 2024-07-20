@@ -1,5 +1,5 @@
 
-# 🐾 Rede Social para Pets
+##  Rede Social para Pets
 
 ![Imagem de exemplo](https://github.com/thmedu/Rede-Pets/assets/141462806/29440815-947c-46be-86ca-322879c90ce0)
 
