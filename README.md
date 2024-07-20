@@ -1,68 +1,67 @@
+## Social Network for Pets
 
-##  Rede Social para Pets
+![Sample image](https://github.com/thmedu/Rede-Pets/assets/141462806/29440815-947c-46be-86ca-322879c90ce0)
 
-![Imagem de exemplo](https://github.com/thmedu/Rede-Pets/assets/141462806/29440815-947c-46be-86ca-322879c90ce0)
+## 📜 Project Description
 
-## 📜 Descrição do Projeto
+This project was developed as part of Origamid's complete React course, where it is applied as a final project. The central idea is to create an interactive platform aimed at pet lovers, providing an engaging and functional experience for users.
 
-Este projeto foi desenvolvido como parte do curso completo de React da Origamid, onde é aplicado como projeto final. A ideia central é criar uma plataforma interativa voltada para amantes de animais de estimação, proporcionando uma experiência envolvente e funcional aos usuários.
+## ✨ Features
 
-## ✨ Funcionalidades
+- **User Registration and Login**: Allows users to register and log in to the platform.
 
-- **Cadastro e Login de Usuários**: Permite que os usuários se cadastrem e façam login na plataforma.
-  
-- **Publicação de Fotos e Informações sobre Pets**: Os usuários podem publicar fotos e detalhes dos seus pets, como raça, nome, idade, entre outros.
-  
-- **Visualização de Estatísticas**: Mostra o número de visualizações em cada foto de pet, permitindo aos usuários acompanhar a popularidade de suas publicações.
-  
-- **Interação entre Usuários**: Funcionalidades sociais como curtir fotos de outros pets e seguir perfis de outros usuários.
-  
-- **Responsivo e Moderno**: Utiliza tecnologias modernas como React e Vite para garantir uma experiência de usuário rápida e responsiva em diferentes dispositivos.
+- **Publishing Photos and Information about Pets**: Users can publish photos and details of their pets, such as breed, name, age, among others.
 
-## 🛠 Tecnologias Utilizadas
+- **Statistics View**: Shows the number of views on each pet photo, allowing users to monitor the popularity of their posts.
 
-- **React**: Framework JavaScript para construção de interfaces de usuário.
-  
-- **Vite**: Build tool que proporciona um ambiente de desenvolvimento rápido para projetos baseados em JavaScript.
-  
-- **APIs Externas**: Integração com APIs externas para funcionalidades como contagem de visualizações e compartilhamento em redes sociais.
+- **Interaction between Users**: Social features such as liking photos of other pets and following profiles of other users.
 
-## 📥 Instalação
+- **Responsive and Modern**: Uses modern technologies such as React and Vite to ensure a fast and responsive user experience across different devices.
 
-Certifique-se de ter o Node.js instalado na sua máquina.
+## 🛠 Technologies Used
 
-### Clone o repositório
+- **React**: JavaScript framework for building user interfaces.
+
+- **Vite**: Build tool that provides a fast development environment for JavaScript-based projects.
+
+- **External APIs**: Integration with external APIs for features such as view counting and sharing on social networks.
+
+## 📥 Installation
+
+Make sure you have Node.js installed on your machine.
+
+### Clone the repository
 
 ```bash
 git clone https://github.com/seu-usuario/rede-social-pets.git
-cd rede-social-pets
+cd social-pets-network
 ```
 
-### Instale as dependências
+### Install dependencies
 
 ```bash
 npm install
 ```
 
-### Execute o projeto
+### Run the project
 
 ```bash
 npm start
 ```
 
-### Acesse a aplicação
+### Access the application
 
-Abra o navegador e acesse `http://localhost:3000`.
+Open your browser and go to `http://localhost:3000`.
 
-## Contribuição
+## Contribution
 
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias ou correções de bugs.
+Contributions are welcome! Feel free to submit pull requests with improvements or bug fixes.
 
-## Autor
+## Author
 
-Este projeto foi desenvolvido por @Thomas Eduardo.
+This project was developed by @Thomas Eduardo.
 
-## Licença
+## License
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 ```
