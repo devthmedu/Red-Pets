@@ -1,67 +1,69 @@
-## Social Network for Pets
+
+![1](https://github.com/user-attachments/assets/187e7d81-4b68-42bf-ae98-d9ca753c43eb)
+
+## Rede Social para Pets
 
 ![Sample image](https://github.com/thmedu/Rede-Pets/assets/141462806/29440815-947c-46be-86ca-322879c90ce0)
 
-## 📜 Project Description
+## 📜 Descrição do Projeto
 
-This project was developed as part of Origamid's complete React course, where it is applied as a final project. The central idea is to create an interactive platform aimed at pet lovers, providing an engaging and functional experience for users.
+Este projeto foi desenvolvido como parte do curso completo de React da Origamid, sendo aplicado como projeto final. A ideia central é criar uma plataforma interativa voltada para amantes de animais de estimação, proporcionando uma experiência envolvente e funcional para os usuários.
 
-## ✨ Features
+## ✨ Funcionalidades
 
-- **User Registration and Login**: Allows users to register and log in to the platform.
+- **Registro e Login de Usuários**: Permite que usuários se registrem e façam login na plataforma.
 
-- **Publishing Photos and Information about Pets**: Users can publish photos and details of their pets, such as breed, name, age, among others.
+- **Publicação de Fotos e Informações sobre Pets**: Usuários podem publicar fotos e detalhes de seus pets, como raça, nome, idade, entre outros.
 
-- **Statistics View**: Shows the number of views on each pet photo, allowing users to monitor the popularity of their posts.
+- **Visualização de Estatísticas**: Mostra o número de visualizações em cada foto de pet, permitindo que os usuários acompanhem a popularidade de suas postagens.
 
-- **Interaction between Users**: Social features such as liking photos of other pets and following profiles of other users.
+- **Interação entre Usuários**: Recursos sociais como curtir fotos de outros pets e seguir perfis de outros usuários.
 
-- **Responsive and Modern**: Uses modern technologies such as React and Vite to ensure a fast and responsive user experience across different devices.
+- **Responsivo e Moderno**: Utiliza tecnologias modernas como React e Vite para garantir uma experiência de usuário rápida e responsiva em diferentes dispositivos.
 
-## 🛠 Technologies Used
+## 🛠 Tecnologias Utilizadas
 
-- **React**: JavaScript framework for building user interfaces.
+- **React**: Framework JavaScript para construção de interfaces de usuário.
 
-- **Vite**: Build tool that provides a fast development environment for JavaScript-based projects.
+- **Vite**: Ferramenta de build que oferece um ambiente de desenvolvimento rápido para projetos baseados em JavaScript.
 
-- **External APIs**: Integration with external APIs for features such as view counting and sharing on social networks.
+- **APIs Externas**: Integração com APIs externas para recursos como contagem de visualizações e compartilhamento em redes sociais.
 
-## 📥 Installation
+## 📥 Instalação
 
-Make sure you have Node.js installed on your machine.
+Certifique-se de ter o Node.js instalado em sua máquina.
 
-### Clone the repository
+### Clone o repositório
 
 ```bash
 git clone https://github.com/seu-usuario/rede-social-pets.git
-cd social-pets-network
+cd rede-social-pets
 ```
 
-### Install dependencies
+### Instale as dependências
 
 ```bash
 npm install
 ```
 
-### Run the project
+### Execute o projeto
 
 ```bash
 npm start
 ```
 
-### Access the application
+### Acesse a aplicação
 
-Open your browser and go to `http://localhost:3000`.
+Abra seu navegador e vá para `http://localhost:3000`.
 
-## Contribution
+## Contribuição
 
-Contributions are welcome! Feel free to submit pull requests with improvements or bug fixes.
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias ou correções de bugs.
 
-## Author
+## Autor
 
-This project was developed by @Thomas Eduardo.
+Este projeto foi desenvolvido por @Thomas Eduardo.
 
-## License
+## Licença
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-```
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
