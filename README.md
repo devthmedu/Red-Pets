@@ -3,8 +3,6 @@
 
 ## Rede Social para Pets
 
-![Sample image](https://github.com/thmedu/Rede-Pets/assets/141462806/29440815-947c-46be-86ca-322879c90ce0)
-
 ## 📜 Descrição do Projeto
 
 Este projeto foi desenvolvido como parte do curso completo de React da Origamid, sendo aplicado como projeto final. A ideia central é criar uma plataforma interativa voltada para amantes de animais de estimação, proporcionando uma experiência envolvente e funcional para os usuários.
